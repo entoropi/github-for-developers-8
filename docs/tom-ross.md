@@ -1,6 +1,7 @@
 ###My Bio :shipit:
- - [ ] Tom Ross :godmode:
- - [ ] [Boston](http://www.boston.com) :us:
- - [ ] *찜닭* :curry:
- - [ ] **Photography** :camera:
- - [ ] **青**
+ - [ ]**Name:** Tom Ross :godmode:
+ - [ ]**Home Town:** [Boston](http://www.boston.com) :us:
+ - [ ]**Favorite food:** *찜닭* :curry:
+ - [ ]**Hobby:** **Photography** :camera:
+ - [ ]**Favorite Colour:** **青**
+ - [ ]**Current Location:** Seoul
